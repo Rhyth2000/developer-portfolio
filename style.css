@@ -87,3 +87,8 @@ footer{
 
         padding-left: 90px;
 }
+.exp-img{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
